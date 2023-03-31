@@ -10,12 +10,6 @@ To use this project, you will need an AWS account and the following information:
 - SMTP server information (host, port, username, and password)
 - A user-defined cost allocation tag named Cost_Center added to your AWS resources
 
-## Prerequisites
-
-You will need the following software installed on your local machine:
-
-- Python 3.8
-- AWS CLI
 
 ## Installation
 
