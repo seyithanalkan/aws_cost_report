@@ -8,6 +8,7 @@ To use this project, you will need an AWS account and the following information:
 
 - AWS Access Key ID and Secret Access Key
 - SMTP server information (host, port, username, and password)
+- A user-defined cost allocation tag named Cost_Center added to your AWS resources
 
 ## Prerequisites
 
