@@ -21,6 +21,7 @@ To use this project, you will need an AWS account and the following information:
    - `YOUR_SMTP_SERVER_PORT`: Replace with your SMTP server port number.
    - `YOUR_SMTP_USER`: Replace with your SMTP username.
    - `YOUR_SMTP_USER_PASSWORD`: Replace with your SMTP password.
+   - `abc@abc.com`: Replace with your e-mail address.
 3. Zip all files in the repository using the following command: `zip -r function.zip .`.
 4. Upload the `function.zip` file to an S3 bucket.
 5. Create a new Lambda function in your AWS account.
