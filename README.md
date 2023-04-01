@@ -26,7 +26,7 @@ To use this project, you will need an AWS account and the following information:
 4. Upload the `function.zip` file to an S3 bucket.
 5. Create a new Lambda function in your AWS account.
 6. Configure the Lambda function to use the `function.zip` file from the S3 bucket.
-7. Create a CloudWatch Event rule to trigger the Lambda function daily.
+7. Create a EventBridge rule to trigger the Lambda function daily.
 
 ## Usage
 
