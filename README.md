@@ -33,5 +33,5 @@ To use this project, you will need an AWS account and the following information:
 To use this project, follow these steps:
 
 1. Add a `Cost_Center` tag to your AWS resources and set its value to your desired cost center.
-2. Wait for the Lambda function to run (either triggered by the EventBridge rule or manually).
+2. Wait for the Lambda function(Python 3.8) to run (either triggered by the EventBridge rule or manually).
 3. Check your email for the daily cost report.
